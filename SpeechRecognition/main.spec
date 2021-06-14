@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['F:\\Python\\Python\\SpeechRecognition'],
+             pathex=['F:\\App_Chat_Bot\\SpeechRecognition\\SpeechRecognition'],
              binaries=[],
              datas=[],
              hiddenimports=[],
